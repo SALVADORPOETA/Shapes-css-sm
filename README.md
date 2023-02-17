@@ -1,4 +1,4 @@
-# Shapes-css-sm
+# Shapes-css
 
 This is a web page with shapes that I built only with CSS.
 
